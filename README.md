@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#7C4DFF">Punith</span></h1>
-<h3 align="center">🚀 AI Engineer @ Hivel.ai </h3>
+<h3 align="center">🚀 AI Engineer @ Hivel.ai</h3>
+
+<p align="center">
+  Building intelligent <b>AI Agent Systems</b> and <b>LLM-powered workflows</b> for enterprises.
+</p>
 
 ---
 
@@ -23,6 +27,8 @@
 </td>
 </tr>
 </table>
+
+---
 
 ## 🔧 Tech Stack
 
@@ -48,11 +54,11 @@
 
 ## 🔥 Currently Working On
 
-- ✔️ Building **LLM Agents** with LangGraph + OpenAI  
-- ✔️ Architecting **Retrieval-Augmented Generation (RAG) systems**  
-- ✔️ Creating **domain-aware AI copilots**  
-- ✔️ Deploying **agentic workflows** in enterprise AI  
-- ✔️ Experimenting with **fine-tuning, prompt engineering & self-learning models**  
+- Building **LLM Agents** with LangGraph + OpenAI  
+- Architecting **Retrieval-Augmented Generation (RAG) systems**  
+- Creating **domain-aware AI copilots**  
+- Deploying **agentic workflows** in enterprise AI  
+- Experimenting with **fine-tuning, prompt engineering & self-learning models**  
 
 ---
 
@@ -65,7 +71,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/punith42/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -76,16 +82,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Punith-42&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues,stars"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Punith-42&theme=radical"/>
-</p>
-
----
-
-⭐ *Let’s collaborate on AI, LLMs, and intelligent agent systems!* 🚀
